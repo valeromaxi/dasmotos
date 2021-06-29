@@ -1,0 +1,25 @@
+.headline {
+    background-image: url('./images/pattern.jpg');
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+strong {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+img {
+    display: block;
+    margin-left: 0%;
+    margin-right: auto;
+}
+
